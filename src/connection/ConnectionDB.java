@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectionDB {
-    private static final String url = "jdbc:mysql://127.0.0.1:3306/infomatica";
+    private static final String url = "jdbc:mysql://127.0.0.1:3306/loja_informatica";
     private static final String user = "root";
     private static final String password = "";
 

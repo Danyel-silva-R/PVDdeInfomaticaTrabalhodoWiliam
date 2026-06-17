@@ -555,7 +555,7 @@ public class SistemaEquipamentos extends JFrame {
 
         @Override
         public String toString() {
-            return nome + " — " + df.format(preco) + "/diária";
+            return nome + " — " + df.format(preco);
         }
     }
 
